@@ -52,3 +52,4 @@ mongodbatlas_database_user_config = [
     ]
   }
 ]
+user_count = "3"
