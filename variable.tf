@@ -8,3 +8,7 @@ variable "mongodbatlas_database_user_config" {
     }))
   }))
 }
+
+var "user_count" {
+  type = string
+}
